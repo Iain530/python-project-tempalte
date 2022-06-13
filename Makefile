@@ -11,3 +11,6 @@ run:
 
 test:
 	python -m pytest
+
+type-check:
+	pre-commit run mypy --all-files
