@@ -1,4 +1,9 @@
 # Python Project Template
+
+![](https://img.shields.io/badge/Python-3.9-blue)
+![](https://github.com/Iain530/python-project-template/actions/workflows/build.yml/badge.svg?branch=main)
+
+
 A simple template for Python projects with boilerplate workflows setup:
 
 - Empty Python app structure
