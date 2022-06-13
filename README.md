@@ -1,8 +1,5 @@
 # Python Project Template
 
-![](https://img.shields.io/badge/Python-3.9-blue)
-![](https://github.com/Iain530/python-project-template/actions/workflows/build.yml/badge.svg?branch=main)
-
 
 A simple template for Python projects with boilerplate workflows setup:
 
@@ -16,7 +13,14 @@ A simple template for Python projects with boilerplate workflows setup:
 
 To get started with this template, simply click the "Use this template" button on GitHub. For more information on using template repos you can [read the docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-## Setup
+---
+
+# My Project
+![](https://img.shields.io/badge/Python-3.9-blue)
+![](https://github.com/OWNER/REPO/actions/workflows/build.yml/badge.svg?branch=main)
+<!-- Replace OWNER and REPO with your new project details above -->
+
+## Developing
 
 After cloning the repo, start by creating a virtual environment, activating it and installing dev requirements:
 ```bash
@@ -38,3 +42,8 @@ make install-dev
 - `make run` - Runs [main.py](./main.py)
 - `make test` - Runs unit tests
 - `make check-types` - Runs mypy static type checking
+
+
+---
+
+Created using Iain530's [Python Project Template](https://github.com/Iain530/python-project-template)
