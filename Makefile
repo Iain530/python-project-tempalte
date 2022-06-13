@@ -7,7 +7,7 @@ install-dev:
 	pre-commit install
 
 run:
-	python run.py
+	python main.py
 
 test:
 	python -m pytest

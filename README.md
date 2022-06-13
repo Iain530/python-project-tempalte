@@ -20,7 +20,6 @@ To get started with this template, simply click the "Use this template" button o
 
 # My Project
 ![](https://img.shields.io/badge/Python-3.9-blue)
-[![](https://img.shields.io/badge/Template-Python-yellow)](https://github.com/Iain530/python-project-template)
 ![](https://github.com/OWNER/REPO/actions/workflows/build.yml/badge.svg?branch=main)
 <!-- Replace OWNER and REPO with your new project details above -->
 
